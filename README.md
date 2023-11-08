@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-<!--
-**josemoncada87/josemoncada87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 I’m currently working as a consultant and postgraduate & undergraduate teacher, usually involved in multiple projects related to frontend, UX, and UI.
 
 🌱 I’m currently learning best practices to integrate development and design teams in high-performance environments.
 
+<!--
+**josemoncada87/josemoncada87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
